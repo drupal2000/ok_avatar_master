@@ -1,0 +1,5 @@
+name = Ok_avatar_master
+description = Like gravatar service for drupal multi-site.
+package = ok
+core = 7.x
+
